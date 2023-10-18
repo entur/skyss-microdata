@@ -1,0 +1,15 @@
+{
+    "name": "ENTUR_STOPPESTED",
+    "datasource_name": "entur",
+    "populationDescription": {...},
+    "subjectFields": [...],
+    "temporalCoverage": {...},
+    "temporality": "FIXED",
+    "temporalityType": "FIXED",
+    "globalTemporalCoverage": {...},
+    "temporalStatusDates": null,
+    "updatedAt": "2022-09-13T09:31:22",
+    "attributeVariables": [...],
+    "identifierVariables": [...],
+    "measureVariable": {...}
+}
