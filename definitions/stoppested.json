@@ -11,5 +11,24 @@
     "updatedAt": "2022-09-13T09:31:22",
     "attributeVariables": [...],
     "identifierVariables": [...],
-    "measureVariable": {...}
+    "measureVariable": {
+        "name": "ENTUR_STOPPESTED"
+        "label": "An identifier for a stop"
+        "dataType": "STRING"
+        "representedVariables": [
+            {   
+                "description": "The stop with id from the national stop place registry"
+                "validPeriod": {
+                    "start": ??datetime
+                    "stop": ??datetime
+                }
+                "valueDomain": {
+                        uriDefinition: ["http://stoppested.entur.org/"]
+                        description: "The national stop place registry"
+                        measurementType: "GEOGRAPHY"
+                        measurementUnitDescription: ?
+                    }
+                }
+        ]
+    }
 }
